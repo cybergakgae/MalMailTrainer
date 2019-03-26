@@ -1,0 +1,2 @@
+# MalMailTrainer
+Malicious Mail Trainer
