@@ -1,0 +1,26 @@
+﻿<html>
+
+<username>님.
+<br>
+<br>
+<b>사서함이 가득 찼습니다.</b>
+<br>
+<br>
+<br>
+사용된 저장소 : 3499MB
+<br>
+<br>
+총 저장 용량  : 4000MB
+<br>
+<br>
+남은 공간 : <b><red>501MB</red></b>
+<br>
+<br>
+
+<a href="http://<serveraddress>/login/<mailindex>/login.php?email=<emailaddress>">사용공간을 늘리려면 여기를 클릭하십시오.</a>
+<br>
+<br>
+
+<mailserverdomain> 2019 All rights reserved.
+<br>
+<br>
