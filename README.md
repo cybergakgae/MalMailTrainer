@@ -1,4 +1,6 @@
 virtual machine download link : https://drive.google.com/open?id=1DvtyRMGp4plEARGp5m-RZQswFqPxoTnZ
+				username : user   /   password :  changeme
+
 user manual(KOR version) : https://youtu.be/QPDL1-Gah20
 
 
