@@ -208,7 +208,7 @@ if __name__== "__main__":
 	os.system("clear")
 	print("Start sending mail......\n\n")
 	for reciever in result.splitlines():
-		mailbody = process_mailbody(mailbody, reciever, servername, mail_index)
-		SendMail(mail_id, mail_pwd, reciever, subject, mailbody)
+		result_mailbody = process_mailbody(mailbody, reciever, servername, mail_index)
+		SendMail(mail_id, mail_pwd, reciever, subject, result_mailbody)
 
 	time.sleep(20)
